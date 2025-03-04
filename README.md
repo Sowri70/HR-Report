@@ -7,7 +7,7 @@ Data Cleaning & Analysis - MySQL Workbench
 
 Data Visualization - PowerBI
 
-**Questions**
+**Questions**:
 
 1. What is the gender breakdown of employees in the company?
 2. What is the race/ethnicity breakdown of employees in the company?
