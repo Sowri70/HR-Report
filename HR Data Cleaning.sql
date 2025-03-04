@@ -56,6 +56,6 @@ SELECT COUNT(*) FROM hr WHERE termdate > CURDATE();
 
 SELECT COUNT(*)
 FROM hr
-WHERE termdate = '0000-00-00';
+WHERE termdate IS NOT NULL;
 
 SELECT location FROM hr;
